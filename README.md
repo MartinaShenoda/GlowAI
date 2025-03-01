@@ -1,1 +1,2 @@
 # GlowAI
+GlowAI is an innovative AI-powered skincare and beauty recommendation app designed to help you achieve your healthiest, most radiant skin. By analyzing your skin’s unique needs using advanced image processing technology, GlowAI provides personalized skincare routines, product recommendations, and ingredient insights to guide you toward your best complexion. Whether you're dealing with acne, dryness, or looking for the perfect skincare routine, GlowAI tailors its advice to your individual skin type and concerns—because healthy, glowing skin should be effortless!
